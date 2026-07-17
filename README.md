@@ -1,2 +1,39 @@
-# Netflix-Data-Analysis
-Netflix Data Analysis using Python, Pandas and Matplotlib
+# Netflix Data Analysis
+
+## Project Overview
+
+This project analyzes Netflix Movies and TV Shows using Python.
+
+## Libraries Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+
+## Tasks Performed
+
+- Data Cleaning
+- Handling Missing Values
+- Exploratory Data Analysis
+- Data Visualization
+
+## Visualizations
+
+1. Movies vs TV Shows
+2. Content Ratings
+3. Movie Duration Distribution
+4. Release Year Analysis
+5. Top 10 Countries
+6. Movies vs TV Shows Released Over Years
+
+## Key Insights
+
+- Netflix has more Movies than TV Shows.
+- The USA has the highest number of titles.
+- Most content was released after 2015.
+- TV-MA is the most common content rating.
+
+## Author
+
+Sumedh Ingole
